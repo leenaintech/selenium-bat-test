@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BATFramework", "BATFramework\BATFramework.csproj", "{B4CDFEF6-9880-439E-931B-53D765F24D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPressTests", "WordPressTests\WordPressTests.csproj", "{F2DEF9B6-3DCB-49FE-A566-AAEE839AFEB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackBAT", "SlackBAT\SlackBAT.csproj", "{1D5BBE00-6828-46FF-B7F6-19A46F80EB99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4CDFEF6-9880-439E-931B-53D765F24D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CDFEF6-9880-439E-931B-53D765F24D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CDFEF6-9880-439E-931B-53D765F24D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CDFEF6-9880-439E-931B-53D765F24D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2DEF9B6-3DCB-49FE-A566-AAEE839AFEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DEF9B6-3DCB-49FE-A566-AAEE839AFEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DEF9B6-3DCB-49FE-A566-AAEE839AFEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DEF9B6-3DCB-49FE-A566-AAEE839AFEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5BBE00-6828-46FF-B7F6-19A46F80EB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5BBE00-6828-46FF-B7F6-19A46F80EB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5BBE00-6828-46FF-B7F6-19A46F80EB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5BBE00-6828-46FF-B7F6-19A46F80EB99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
